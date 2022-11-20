@@ -10,6 +10,7 @@ public class FirstProjApplication {
 		SpringApplication.run(FirstProjApplication.class, args);
 		System.out.println("Welcome to boot...");
 		System.out.println("Welcome to boot...");
+		System.out.println("narayana");
 	}
 
 }
